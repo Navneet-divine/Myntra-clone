@@ -1,4 +1,4 @@
-# my second project using HTMl and CSS
+my second project using HTML and CSS
 
 # HTML
 
